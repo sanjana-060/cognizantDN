@@ -1,2 +1,0 @@
-# cognizantDN
-Interview preparation system
